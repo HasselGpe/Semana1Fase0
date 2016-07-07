@@ -1,0 +1,6 @@
+number = 4
+if ((number * 4) / 4) == (12 + 12 - number - 16)
+  puts "That's correct"
+else
+  puts "Think a little"
+end
